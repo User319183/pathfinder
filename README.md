@@ -36,4 +36,4 @@ Pathfinder is licensed under the MIT License. For more details, please refer to 
 
 ## Support and Contact
 
-For any inquiries, support requests, or feedback, please open an issue on the Pyfuscator GitHub repository. Our team is always ready to assist.
+For any inquiries, support requests, or feedback, please open an issue on the Pathfinder GitHub repository. Our team is always ready to assist.
